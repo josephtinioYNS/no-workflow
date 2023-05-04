@@ -1,1 +1,1 @@
-# sample-workflow
+# no-workflow
